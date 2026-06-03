@@ -1,15 +1,16 @@
-Property Scrapper Presents The ability to have a property listing site be scoured
-and generate an output that fits your filtered requests within in. 
+<h1>Property Scrapper Presents The ability to have a property listing site be scoured
+and generate an output that fits your filtered requests within in. </h1>
 
 
 
 
+<p> This workflow was created to provide a streamlined process for Realtors or investor and home buyers to do an auto search in their preffered area, in this case Texas. There are a couple of code lines that include price range, minimum and maximum price. Zip codes can be configured as the code is modified. </p>
 
 
 
+<p> Whats to come? The idea is to automate the search in different areas more easily. At the current moment the code has to be adjusted to modify the location, price range, bed and bath quantities. The idea is to make it user friendly without having to edit Python code.</p>
 
-
-
+<p style="background-color:Tomato;"> Sona S.</p>
 
 
 
